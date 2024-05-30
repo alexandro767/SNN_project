@@ -45,5 +45,3 @@ The table below shows the accuracy for each model on the CIFAR-10 and MNIST data
 | [SNNVGG(2)](https://github.com/alexandro767/SNN_project/blob/main/SNN_VGG_2.ipynb) | CIFAR-10            | 57.26%            |
 
 ---
-
-Replace `path/to/SNNVGG.py` and `path/to/SNNMLP.py` with the actual paths to your model files. Adjust the accuracy values as per your evaluation results.
