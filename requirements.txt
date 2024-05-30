@@ -1,1 +1,5 @@
 snntorch
+torch
+torchvision
+matplotlib
+numpy
