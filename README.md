@@ -29,7 +29,7 @@ The following datasets are used to train and evaluate the SNN models:
 
 The following SNN models are implemented:
 
-- [SNNVGG](path/to/SNNVGG.py)
+- [SNNVGG](https://github.com/alexandro767/SNN_project/blob/main/SNN_VGG_2.ipynb)
 - [SNNMLP](path/to/SNNMLP.py)
 
 ## Evaluation
@@ -45,8 +45,8 @@ The table below shows the accuracy for each model on the CIFAR-10 and MNIST data
 | Model   | Dataset | Accuracy |
 |---------|--------------------|----------------|
 | [SNNMLP](path/to/SNNMLP.py) | MNIST            | 90%            |
-| [SNNVGG(1)](path/to/SNNVGG.py) | CIFAR-10            | 60.42%            |
-| [SNNVGG(2)](path/to/SNNVGG.py) | CIFAR-10            | 57.26%            |
+| [SNNVGG(1)](https://github.com/alexandro767/SNN_project/blob/main/SNN_VGG_like.ipynb) | CIFAR-10            | 60.42%            |
+| [SNNVGG(2)](https://github.com/alexandro767/SNN_project/blob/main/SNN_VGG_2.ipynb) | CIFAR-10            | 57.26%            |
 
 ---
 
