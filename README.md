@@ -1,7 +1,3 @@
-Here is the updated README file with a table to show accuracy for each model and links to their respective files:
-
----
-
 # Spiking Neural Networks for Computer Vision
 
 ## Introduction
