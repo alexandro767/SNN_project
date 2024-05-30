@@ -26,7 +26,7 @@ The following datasets are used to train and evaluate the SNN models:
 The following SNN models are implemented:
 
 - [SNNVGG](https://github.com/alexandro767/SNN_project/blob/main/SNN_VGG_2.ipynb)
-- [SNNMLP](path/to/SNNMLP.py)
+- [SNNMLP](https://github.com/alexandro767/SNN_project/blob/main/SNN-MLP.ipynb)
 
 ## Evaluation
 
@@ -36,12 +36,16 @@ The SNN models will be evaluated on the following metrics:
 
 ## Results
 
-The table below shows the accuracy for each model on the CIFAR-10 and MNIST datasets.
+The table below shows the accuracy for each experiment on the CIFAR-10 and MNIST datasets.
 
 | Model   | Dataset | Accuracy |
 |---------|--------------------|----------------|
-| [SNNMLP](path/to/SNNMLP.py) | MNIST            | 90%            |
+| [SNNMLP](https://github.com/alexandro767/SNN_project/blob/main/SNN-MLP.ipynb) | MNIST            | 98.44%            |
 | [SNNVGG(1)](https://github.com/alexandro767/SNN_project/blob/main/SNN_VGG_like.ipynb) | CIFAR-10            | 60.42%            |
 | [SNNVGG(2)](https://github.com/alexandro767/SNN_project/blob/main/SNN_VGG_2.ipynb) | CIFAR-10            | 57.26%            |
+
+## Conclusion
+By addressing the challenges of implementing SNNs for image classification, this project could contribute to the development of more efficient artificial intelligence systems, paving the way for their application in real-world scenarios where
+computational resources are limited.
 
 ---
