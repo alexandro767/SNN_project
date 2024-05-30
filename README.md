@@ -36,11 +36,12 @@ The SNN models will be evaluated on the following metrics:
 
 ## Results
 
-The table below shows the accuracy for each experiment on the CIFAR-10 and MNIST datasets.
+The table below shows the accuracy for each experiment on the CIFAR-10 and MNIST datasets. 
 
 | Model   | Dataset | Accuracy |
 |---------|--------------------|----------------|
 | [SNNMLP](https://github.com/alexandro767/SNN_project/blob/main/SNN-MLP.ipynb) | MNIST            | 98.44%            |
+| [SNNVGGsimplest](https://github.com/alexandro767/SNN_project/blob/main/SNN-VGG-simplest.ipynb) | MNIST            | 97.11%            |
 | [SNNVGG(1)](https://github.com/alexandro767/SNN_project/blob/main/SNN_VGG_like.ipynb) | CIFAR-10            | 60.42%            |
 | [SNNVGG(2)](https://github.com/alexandro767/SNN_project/blob/main/SNN_VGG_2.ipynb) | CIFAR-10            | 57.26%            |
 
